@@ -2,7 +2,7 @@
 
 This is a electrical claw project in APSC 101
 
-What it does
+### What it does
   The claw it self has mainly five parts:
   - Claw body made with cardboard
   - Arduino Uno board on top
